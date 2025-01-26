@@ -1,5 +1,5 @@
-# 💀 majestic-clothing
-FiveM  QBCore / ESX / NP-BASE NoPixel 4.0 inspired clothing system & character selector
+# 💀 majestic-tablet
+FiveM  QBCore / ESX / QBUS NoPixel 4.0 Inspired Pixel Tablet System!
 
 ## 👀 Preview
 https://www.youtube.com/watch?v=KS5J9UOBijM
